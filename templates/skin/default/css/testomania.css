@@ -1,0 +1,89 @@
+.testomania-variants{
+    padding: 5px;
+}
+.testomania-links {
+    padding: 15px;
+    font-size: 9pt;
+}
+
+.testomania-icon {
+    float: left;
+    margin-right: 10px;
+    text-align: center;
+    width: 91px;
+}
+
+.testomania-icon a img {
+    width: 91px;
+    height: 91px;
+}
+
+input.testomania.admin.twodigits {
+    width: 30px;
+    text-align: right;
+}
+
+input.testomania.admin.shorter {
+    width: 100px;
+    text-align: right;
+}
+
+input.testomania.admin.longer {
+    width: 250px;
+    text-align: right;
+}
+
+table.testomania.admin{
+    width: 100%;
+}
+
+table.testomania.admin thead td{
+    font-weight: bold;
+    text-align: center;
+}
+
+table.testomania.admin tr{
+    padding: 5px;
+    border-bottom: 1px solid #b3b3b3;
+}
+
+table.testomania.admin td{
+    min-width: 50px;
+    padding: 5px;
+    text-align: right;
+}
+
+table.testomania.admin td.message {
+    text-align: center;
+    padding: 20px;
+    font-style: italic;
+}
+
+table.testomania.admin tfoot{
+    text-align: right;
+}
+
+input.testomania.admin {
+    min-width: 50px;
+    padding: 5px;
+}
+
+.testomania.admin.preview-thumb {
+    width: 200px;
+}
+
+.testomania.admin.linksmall {
+    font-size: 9pt;
+}
+
+.testomania.admin a {
+    font-size: 7pt;
+}
+
+.testomania.admin.wide {
+    width: 500px;
+}
+
+.testomania.admin label {
+    float: left;
+}

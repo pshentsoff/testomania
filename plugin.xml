@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<plugin>
+  <name>
+    <lang name="default">Testomania</lang>
+    </name>
+  <author>
+    <lang name="default">pshentsoff</lang>
+    </author>
+  <homepage>http://pshentsoff.ru</homepage>
+  <version>1.1.6</version>
+  <requires>
+    <livestreet>1.x</livestreet>
+    <plugins>
+      </plugins>
+    <system>
+      <php>5.3</php>
+      </system>
+    </requires>
+  <description>
+    <lang name="default">Tests management tool</lang>
+    <lang name="russian">Инструмент для управления тестами</lang>
+    </description>
+  <settings>{testomania}</settings>
+  <delegate>
+    <module></module>
+    <action></action>
+    <template></template>
+    <entity></entity>
+    </delegate>
+  </plugin>

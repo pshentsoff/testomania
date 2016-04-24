@@ -52,7 +52,7 @@ Copyright 2013 by Vadim Pshentsov <pshentsoff@gmail.com>
 
 История версий:
 
-версия 1.1.2
+версия 1.1.7
 	-  FIX: добавлены дампы
 
 версия 1.1.1
